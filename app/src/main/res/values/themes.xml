@@ -1,0 +1,9 @@
+<resources>
+    <!-- Plain AppCompat theme: no third-party (Material) components needed -->
+    <style name="Theme.SmartPantryManager" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryDark">@color/green_dark</item>
+        <item name="colorAccent">@color/orange_accent</item>
+        <item name="colorButtonNormal">@color/green_primary</item>
+    </style>
+</resources>
